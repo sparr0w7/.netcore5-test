@@ -9,3 +9,5 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.InMemory
 code -r ../TodoApi
 ```
+# vscode 실행
+control + F5
